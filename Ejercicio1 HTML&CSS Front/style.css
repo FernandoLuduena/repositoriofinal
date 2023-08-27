@@ -1,0 +1,18 @@
+h1{
+    color: darkblue;
+    font-style: oblique;
+}
+
+p{
+    color:  black solid;
+    font-style: italic;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+body img{
+    height: 500px;
+    width: 800px;
+}
